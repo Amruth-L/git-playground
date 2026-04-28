@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+THIS IS MY GIT PLAYGROUND WHERE EVERY COMMAND IS USED
